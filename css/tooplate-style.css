@@ -365,7 +365,13 @@ b, strong {
   vertical-align: middle;
   margin-left: 15px;
 }
-
+.owl-carousel .owl-item .project-info {
+	 padding: 2rem;
+}
+.owl-carousel .owl-item img {
+	 border-radius: 20px;
+   box-shadow: 2px 1px 23px 4px rgba(0,0,0,0.48);
+}
 .owl-carousel .owl-nav span {
   display: none;
 }

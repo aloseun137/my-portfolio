@@ -413,6 +413,14 @@ b, strong {
 
 // OWL CAROUSEL
 .owl-carousel {
+	.owl-item {
+		.project-info {
+			padding: 2rem;
+			img {
+				border-radius: 20px;
+			}
+		}
+	}
 	.owl-nav {
 		span {
 			display: none;
